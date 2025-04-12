@@ -3,6 +3,10 @@
   padding: 0;
 }
 
+button{
+    cursor: pointer;
+}
+
 :root {
   --slide-width: 20rem;
   --slide-height: 25rem;
